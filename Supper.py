@@ -20,3 +20,4 @@ print(trusted + " I see I see")
 input("I don't trust you ")
 
 
+#GameMaker124 on github made this
